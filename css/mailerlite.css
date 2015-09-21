@@ -41,7 +41,7 @@
     #mlb2-1043384 .subscribe-form {
     
         padding: 20px;
-        width: 560px!important;
+        width: 100%;
         border: 2px solid #BDC3C7!important;
         background: #FFFFFF none!important;
         -webkit-border-radius: 10px!important;
