@@ -159,6 +159,7 @@ a:focus {
     display: table-cell;
     /*vertical-align: middle;*/
    margin-top:50px;
+   padding-top:50px;
 }
 
 .intro .intro-body .brand-heading {
@@ -167,8 +168,7 @@ a:focus {
 
 .intro .intro-body .intro-text {
     font-size: 18px;
-    margin-top:20px;
-    padding-top:20px;
+   
 }
 
 @media(min-width:768px) {
